@@ -1,0 +1,17 @@
+{
+  "name": "playwrightuser",
+  "version": "1.0.0",
+  "description": "playwright training",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
